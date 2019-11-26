@@ -1,0 +1,24 @@
+{
+  "name": "geo-search",
+  "version": "1.0.0",
+  "description": "Geosearch for weather",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/esehigh/Geo-search.git"
+  },
+  "keywords": [
+    "Geosearch",
+    "Andela",
+    "DevC"
+  ],
+  "author": "Idemudia Happy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/esehigh/Geo-search/issues"
+  },
+  "homepage": "https://github.com/esehigh/Geo-search#readme"
+}
